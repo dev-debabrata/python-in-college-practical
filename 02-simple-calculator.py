@@ -1,5 +1,6 @@
 # 2. Make a simple calculator with function 
 
+
 def calculator(a, b, op):
     if op == '+':
         return a + b
