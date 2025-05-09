@@ -5,6 +5,7 @@
 # a) With
 text = "this is a python programming language"
 freq = {}
+
 for char in text:
     if char != ' ':
         freq[char] = freq.get(char, 0) + 1

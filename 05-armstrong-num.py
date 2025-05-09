@@ -2,6 +2,7 @@
 
 
 print("Armstrong numbers between 100 and 999:")
+
 for num in range(100, 1000):
     sum = 0
     temp = num
@@ -11,3 +12,4 @@ for num in range(100, 1000):
         temp //= 10
     if num == sum:
         print(num)
+        

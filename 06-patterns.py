@@ -19,5 +19,6 @@ for i in range(1, 6):
 
 # Pattern b)
 word = "HELLO"
+
 for i in range(1, len(word) + 1):
     print(' '.join(word[:i]))
