@@ -8,6 +8,7 @@ def add(a, b):
 
 print("Sum:", add(5, 3))
 
+
 #b) Without function:
 a = 5
 b = 3
